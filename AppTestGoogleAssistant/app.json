@@ -1,0 +1,12 @@
+{
+  "name": "AppTestGoogleAssistant",
+  "displayName": "AppTestGoogleAssistant",
+  "expo": {
+    "name": "AppTestGoogleAssistant",
+    "slug": "AppTestGoogleAssistant",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
