@@ -1,0 +1,12 @@
+export const dialogflowConfig = {
+  "type": "service_account",
+  "project_id": "nameofproject",
+  "private_key_id": "XXXXXXXXXXXXXXXXX",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nXXXXXXXXXXX\n-----END PRIVATE KEY-----\n",
+  "client_email": "XXXXXXXXXXXXXXXXXXXXXXXXX",
+  "client_id": "XXXXXXXXXXXXXX",
+  "auth_uri": "XXXXXXXXXXXXXXXXX",
+  "token_uri": "XXXXXXXXXXXXXXX",
+  "auth_provider_x509_cert_url": "XXXXXXXXXXXXXXXXXXXXXXX",
+  "client_x509_cert_url": "XXXXXXXXXXXXXXXXXXXXX"
+}
